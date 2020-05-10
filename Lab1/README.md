@@ -1,2 +1,2 @@
-# upravlenie_mob_ustroystvami
-Lab works
+# Инструкция к запуску
+Для запуска программы нужной перейти в папку Lab1 -> bin -> Debug и запустить файл Lab1.exe
